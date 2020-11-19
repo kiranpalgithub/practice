@@ -1,0 +1,10 @@
+cd
+ls
+ls -l
+ls -l r*
+ls -la
+git init
+git remote
+git remote add origin<gitLink>
+git add
+git help
